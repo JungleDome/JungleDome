@@ -75,20 +75,6 @@ Here are some ideas to get you started:
     </a>
 </div>
 
-<!-- <header>
-  <div align="center">
-    <a href="https://jungledome.github.io">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=enji.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
-    </a>
-    <a href="https://twitter.com/enjidev">
-      <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-enjidev-7733ff?style=flat&logo=twitter&logoColor=ffffff&labelColor=334155">
-    </a>
-    <a href="https://figma.com/@enjidev">
-      <img alt="My Figma Community" src="https://img.shields.io/static/v1?color=%237733ff&label=Figma&message=@enjidev&style=flat&logo=figma&logoColor=ffffff&labelColor=334155">
-    </a>
-  </div>
-</header> -->
-
 <br />
 <br />
 
@@ -96,20 +82,17 @@ Here are some ideas to get you started:
     <summary><h2>📊 Statistics</h2></summary>
     <div>
         <div>
-        <a href="https://github.com/jungledome">
-            <img alt="This week GitHub profile views" src="https://komarev.com/ghpvc/?username=jungledome&style=flat&color=8eaf02&label=Profile+views" />
-        </a>
+        <a href="https://u8views.com/github/JungleDome"><img src="https://u8views.com/api/v1/github/profiles/14922173/views/total-count.svg"></a>
         <br /><br />
         </div>
         <div>
-            <img alt="Top language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungledome&layout=compact" />
-        <a href="https://github.com/jungledome?tab=repositories&q=&type=&language=&sort=stargazers">
-            <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=enjidev&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true">
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=enjidev&count_private=true" />
-            <img alt="Enji Kusnadi's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=enjidev&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" />
-            </picture>
-        </a>
+            <a href="https://github.com/jungledome?tab=repositories&q=&type=&language=&sort=stargazers">
+                <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=jungledome&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true">
+                <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=jungledome&count_private=true" />
+                <img alt="Jungle Dome's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=jungledome&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" />
+                </picture>
+            </a>
         </div>
     </div>
 </details>
